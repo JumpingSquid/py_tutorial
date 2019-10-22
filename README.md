@@ -35,4 +35,4 @@ Link: https://colab.research.google.com
 Using Jupyter Notebook
 ----------------------
 ![Anaconda_ju_1](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_1.png)
-![Anaconda_ju_2](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_1.png)
+![Anaconda_ju_2](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_2.png)
