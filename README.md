@@ -5,7 +5,7 @@ Introduction
 ------------
 This is the repo of the jupyter notebook file and data for Python tutorial at Donz. The goal of this class
 is to help students understand the basic tools for data analytics with Python. We will go through four examples in this class:
-+ Basic Python syntax
++ Basic Python syntax and object
 + Pandas and NumPy
 + Matplotlib
 + Scikit-Learn
