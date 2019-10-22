@@ -20,7 +20,7 @@ Download link: https://www.anaconda.com/distribution/ <br/>
 Installation reference: https://medium.com/python4u/anaconda%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-f7dae6454ab6 <br />
 
 + Python 3.7 with pip <br/>
-If you are familiar with Python and cmd(Windows)/terminal(Mac), you can install Python 3.7 first, and enter following command in cmd(Windows)/terminal(Mac):
+If you are familiar with Python and cmd(Windows)/terminal(Mac), you can install Python 3.7 first, and enter following commands in cmd(Windows)/terminal(Mac):
 <pre><code>
   pip install jupyter
   pip install pandas
