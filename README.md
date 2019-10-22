@@ -30,5 +30,5 @@ If you are familiar with Python and cmd(Windows)/terminal(Mac), you can install 
   pip install matplotlib</code></pre>
 
 + Google Colab <br/>
-Google colab is an google's programming platform based on Jupyter notebook. The user can directly do coding online without installing Python or any packages in local. Please use Google Colab only if all two methods above do not work for you.<br/>
+Google colab is an online programming platform based on Jupyter notebook. The user can directly do coding in the browser without installing Python or any packages in local. Please use Google Colab only if all two methods above do not work for you.<br/>
 Link: https://colab.research.google.com
