@@ -15,7 +15,7 @@ Prerequisite
 Beforing going into the tutorial, one should install the required packages. As described above, in this class we will practice pandas, numpy, matplotlib, and scikit-learn. And all the demo and practice will be performed on Jupyter Notebook, an interactive computing environment. There are many ways to install these packages, choose one from below methods.
 
 + Anaconda (Python 3.7)<br/>
-Anaconda is a comprehensive python platform specifically designed for data science. It includes Python and other packages. One can find almost all common packages in it. For the beginner, it is strongly recommended to install Anaconda at th first time. <br/>
+Anaconda is a comprehensive python platform specifically designed for data science. It includes Python and other packages. One can find almost all common packages in it. For the beginner, it is strongly recommended to install Anaconda at the first time. <br/>
 Download link: https://www.anaconda.com/distribution/ <br/>
 Installation reference: https://medium.com/python4u/anaconda%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-f7dae6454ab6 <br />
 
