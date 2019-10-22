@@ -35,6 +35,6 @@ Link: https://colab.research.google.com
 Using Jupyter Notebook(Windows)
 ----------------------
 you can open Jupyter Notebook from the start menu - Anaconda3
-![Anaconda_ju_1](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_1.png)
-Select the folder you download from Github, and choose the .ipynb file
+![Anaconda_ju_1](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_1.png)<br/>
+Going to the folder you download from Github, and choose the corresponding .ipynb file
 ![Anaconda_ju_2](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_2.png)
