@@ -32,7 +32,9 @@ If you are familiar with Python and cmd(Windows)/terminal(Mac), you can install 
 Google colab is an online programming platform based on Jupyter notebook. The user can directly do coding in the browser without installing Python or any packages in local. Please use Google Colab only if all two methods above do not work for you.<br/>
 Link: https://colab.research.google.com
 
-Using Jupyter Notebook
+Using Jupyter Notebook(Windows)
 ----------------------
+you can open Jupyter Notebook from the start menu - Anaconda3
 ![Anaconda_ju_1](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_1.png)
+Select the folder you download from Github, and choose the .ipynb file
 ![Anaconda_ju_2](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_2.png)
