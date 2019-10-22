@@ -40,3 +40,8 @@ Using Jupyter Notebook(Windows)
 
 2. Going to the folder you download from Github, and choose the corresponding .ipynb file
 ![Anaconda_ju_2](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_2.png)
+
+Using Jupyter Notebook(Windows/Mac/Linux)
+----------------------
+Go to the terminal(Mac)/Bash(Linux)/cmd(Windows), and enter the command
+<pre><code>jupyter notebook</code><pre>
