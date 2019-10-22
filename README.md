@@ -12,7 +12,7 @@ is to help students understand the basic tools for data analytics with Python. W
 
 Prerequisite
 ------------
-Beforing going into the tutorial, one should install the required packages. As described above, in this class we will practice pandas, numpy, matplotlib, and scikit-learn. And all the demo and preactice will be performed on Jupyter Notebook, an interactive computing environment. There are many ways to install these packages, choose one from below methods.
+Beforing going into the tutorial, one should install the required packages. As described above, in this class we will practice pandas, numpy, matplotlib, and scikit-learn. And all the demo and practice will be performed on Jupyter Notebook, an interactive computing environment. There are many ways to install these packages, choose one from below methods.
 
 + Anaconda <br/>
 Anaconda is a comprehensive python platform specifically designed for data science. One can find almost all common packages in it.
