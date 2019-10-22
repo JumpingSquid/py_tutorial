@@ -43,5 +43,5 @@ Using Jupyter Notebook(Windows)
 
 Using Jupyter Notebook(Windows/Mac/Linux)
 ----------------------
-Go to the terminal(Mac)/Bash(Linux)/cmd(Windows), and enter the command
-<pre><code>jupyter notebook</code><pre>
+Go to the terminal(Mac/Linux)/cmd(Windows), and enter the command
+<code>jupyter notebook</code>
