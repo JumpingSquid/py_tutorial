@@ -38,7 +38,7 @@ Using Jupyter Notebook(Windows)
 ![Anaconda_ju_1](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_1.png)
 
 
-2. Going to the folder you download from Github, and choose the corresponding .ipynb file
+2. Navigating to the folder you download from Github, and choose the corresponding .ipynb file
 ![Anaconda_ju_2](https://github.com/JumpingSquid/py_tutorial/blob/master/image/jupyter_2.png)
 
 Using Jupyter Notebook(Windows/Mac/Linux)
