@@ -45,3 +45,8 @@ Using Jupyter Notebook(Windows/Mac/Linux)
 ----------------------
 Go to the terminal(Mac/Linux)/cmd(Windows), and enter the command
 <code>jupyter notebook</code>
+
+Open Jupyter Notebook file on Google Colab
+----------------------
+1. You can open the notebook file from the Google Collab by selecting Github first and search for "jumpingsquid"
+![Anaconda_ju_3](https://github.com/JumpingSquid/py_tutorial/blob/master/image/ju_collab.png)
