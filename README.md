@@ -49,4 +49,5 @@ Go to the terminal(Mac/Linux)/cmd(Windows), and enter the command
 Open Jupyter Notebook file on Google Colab
 ----------------------
 1. You can open the notebook file from the Google Collab by selecting Github first and search for "jumpingsquid"
+2. Fro the repository, choose "py_tutorial"  
 ![Anaconda_ju_3](https://github.com/JumpingSquid/py_tutorial/blob/master/image/ju_collab.png)
