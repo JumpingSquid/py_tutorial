@@ -12,13 +12,17 @@ is to help students understand the basic tools for data analytics using Python. 
 
 Open Jupyter Notebook file on Google Colab
 ----------------------
+Google Colab <br/>
+Google colab is an online programming platform based on Jupyter notebook. The user can directly do coding in the browser without installing Python or any packages in local. Please use Google Colab only if all two methods above do not work for you.<br/>
+Link: https://colab.research.google.com
+
 1. You can open the notebook file from the Google Collab by selecting Github first and search for "jumpingsquid"
 2. Fo the repository, choose "py_tutorial"  
 ![Anaconda_ju_3](https://github.com/JumpingSquid/py_tutorial/blob/master/image/ju_collab.png)
 
-Prerequisite
+Prerequisite for local
 ------------
-This section is for people who want to write Python in you own computer.
+This section is for people who want to write Python in you own computer.  
 Beforing going into the tutorial, one should install the required packages. As described above, in this class we will practice pandas, numpy, matplotlib, and scikit-learn. And all the demo and practice will be performed on Jupyter Notebook, an interactive computing environment. There are many ways to install these packages, choose one from below methods.
 
 + Anaconda (Python 3.7+)<br/>
@@ -34,10 +38,6 @@ If you are familiar with Python and cmd(Windows)/terminal(Mac), you can install 
   pip install numpy
   pip install scikit-learn
   pip install matplotlib</code></pre>
-
-+ Google Colab <br/>
-Google colab is an online programming platform based on Jupyter notebook. The user can directly do coding in the browser without installing Python or any packages in local. Please use Google Colab only if all two methods above do not work for you.<br/>
-Link: https://colab.research.google.com
 
 Using Jupyter Notebook(Windows)
 ----------------------
