@@ -13,7 +13,7 @@ is to help students understand the basic tools for data analytics using Python. 
 Open Jupyter Notebook file on Google Colab
 ----------------------
 Google Colab <br/>
-Google colab is an online programming platform based on Jupyter notebook. The user can directly do coding in the browser without installing Python or any packages in local. Please use Google Colab only if all two methods above do not work for you.<br/>
+Google colab is an online programming platform based on Jupyter notebook. The user can directly do coding in the browser without installing Python or any packages in local.  
 Link: https://colab.research.google.com
 
 1. You can open the notebook file from the Google Collab by selecting Github first and search for "jumpingsquid"
