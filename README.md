@@ -10,8 +10,15 @@ is to help students understand the basic tools for data analytics using Python. 
 + Matplotlib
 + Scikit-Learn
 
+Open Jupyter Notebook file on Google Colab
+----------------------
+1. You can open the notebook file from the Google Collab by selecting Github first and search for "jumpingsquid"
+2. Fo the repository, choose "py_tutorial"  
+![Anaconda_ju_3](https://github.com/JumpingSquid/py_tutorial/blob/master/image/ju_collab.png)
+
 Prerequisite
 ------------
+This section is for people who want to write Python in you own computer.
 Beforing going into the tutorial, one should install the required packages. As described above, in this class we will practice pandas, numpy, matplotlib, and scikit-learn. And all the demo and practice will be performed on Jupyter Notebook, an interactive computing environment. There are many ways to install these packages, choose one from below methods.
 
 + Anaconda (Python 3.7+)<br/>
@@ -45,9 +52,3 @@ Using Jupyter Notebook(Windows/Mac/Linux)
 ----------------------
 Go to the terminal(Mac/Linux)/cmd(Windows), and enter the command
 <code>jupyter notebook</code>
-
-Open Jupyter Notebook file on Google Colab
-----------------------
-1. You can open the notebook file from the Google Collab by selecting Github first and search for "jumpingsquid"
-2. Fo the repository, choose "py_tutorial"  
-![Anaconda_ju_3](https://github.com/JumpingSquid/py_tutorial/blob/master/image/ju_collab.png)
